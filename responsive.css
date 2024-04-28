@@ -1,0 +1,123 @@
+@media only screen and (max-width: 412px){
+    .logo img{
+        text-align: center;
+        margin-left: 55px;
+        
+    }
+    .header{
+        margin: 0px;
+    }
+    .seach{
+        margin: 0px;
+        display: none;
+    }
+    .nav_ber{
+        display: none;
+    }
+    .parent{
+        margin: 0;
+        /* display: none; */
+    }
+    .offer{
+        display: none;
+    }
+    .offer1{
+        margin-top: 150px;
+        margin-left: 12px;
+    }
+    .offer1 img{
+        width: 400px;
+        /* display: none; */
+    }
+    .aside{
+        display: none;
+    }
+    .horjontal{
+        margin: 0px;
+    }
+    .parent{
+        margin: 0;
+    }
+    .main_contant{
+        margin: 0;
+    }
+    .main_contant .content{
+        margin: 0;
+        justify-content: center;
+    }
+    .main_contant .content .picture{
+        width: 180px;
+        height: 250px;
+    }
+    .main_contant .content .picture img{
+        width: 10px;
+        height: 150px;
+    }
+    .main_contant .container button {
+        margin-right: 0px;
+        font-size: 20px;
+        width: 100px;
+        height: 40px;
+        background-color: #5f27cd;
+        color: whitesmoke;
+    }
+    .load{
+        margin: 15px 0px 120px 0px;
+    }
+    .recent {
+        margin: 15px 0% 20px 0%;
+        justify-content: center;
+    }
+    .recent .child {
+        margin: 0px 3px;
+        text-align: center;
+        width: 200px;
+        height: 150px;
+
+    
+    }
+    .recent .child img{
+        width: 200px;
+        opacity: 60%;
+    }
+    .children{
+        display: block;
+        bottom: 30px;
+        color: whitesmoke;
+    }
+    .children a{
+        color: whitesmoke;
+    }
+    .service{
+        margin: 0px 0px 60px 0px;
+    }
+    .child_service{
+        width: 200px;
+        height: 420px;
+        margin: 7px 5px;
+
+    }
+    #policy{
+        margin: 90px 10px 50px 10px;
+        color: whitesmoke;
+        font-size: 20px;
+    }
+    #policy h1{
+        font-size: 30px;
+        padding-bottom: 30px;}
+    .footer{
+        margin: 0px 0px 40px 15px;
+
+    }
+    .follow{
+        margin: 0px 0px 30px 15px;
+    }
+    .follow .payment{
+        margin-top: 15px;
+    }
+    
+    .qna {
+    margin: 0px 2% 60px 2%;
+    }
+    
+}
