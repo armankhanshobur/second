@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+    background: url(privcy.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+}
+.nav_ber{
+    font-family: sans-serif;
+}
+/* .privacy_head{
+    position: relative;
+    margin-top: 70px;
+}
+.privacy_head .divv img{
+   
+    width: 100%;
+    height: 10;
+    position: absolute;
+} */
+#policy{
+    margin: 180px 12% 10px 12%;
+    color: whitesmoke;
+    font-size: 20px;
+    line-height: 30px;
+}
+#policy ul{
+    list-style-type: none;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+#policy ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#policy ul li a:hover{
+    text-decoration: underline;
+    color: aliceblue;
+}
+#policy ul span{
+    padding: 20px;
+}
+#policy h1{
+    font-size: 70px;
+    color: #EA2027;
+    text-align: center;
+    padding-bottom: 150px;
+
+}
+.emty{
+    height: 1px;
+}
+.main {
+    background-color: var(--dark_header);
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    width: 100%;
+}
