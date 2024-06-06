@@ -423,6 +423,7 @@ body {
     transition: 0.3s;
     outline: none;
     border: none;
+    border: 2px solid white;
 }
 
 .child_service button:hover {
